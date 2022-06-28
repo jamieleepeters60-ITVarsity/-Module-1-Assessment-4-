@@ -1,0 +1,23 @@
+h1{
+    color:aqua
+}
+h2{
+    color: darkgray
+}
+table{
+    front-family:Helvetica,sans-sarif
+    border-collapse:collapse;
+    border-width: thick
+    border-style:solid;
+    border-color: aqua
+}
+#menue-bar a{
+    front-family:Helvertica,sans,serif;
+    text-decoration: none
+    backgroung-color:hotpink
+    padding:5px
+}
+#menu-bar a:hover{
+    background-color: aqua
+    color:hotpink
+}
